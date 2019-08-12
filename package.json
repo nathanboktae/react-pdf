@@ -1,5 +1,5 @@
 {
-  "name": "@nathanboktae/react-pdf",
+  "name": "react15-pdf",
   "version": "3.1.0",
   "description": "Display PDFs in your React app as easily as if they were images.",
   "main": "dist/entry.js",
