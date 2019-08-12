@@ -1,3 +1,5 @@
+A fork of [react-pdf](https://github.com/wojtekmaj/react-pdf) for React 15.
+
 ![downloads](https://img.shields.io/npm/dt/react-pdf.svg) ![build](https://img.shields.io/travis/wojtekmaj/react-pdf/master.svg) ![dependencies](https://img.shields.io/david/wojtekmaj/react-pdf.svg
 ) ![dev dependencies](https://img.shields.io/david/dev/wojtekmaj/react-pdf.svg
 ) [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)

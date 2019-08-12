@@ -1,6 +1,6 @@
 {
-  "name": "react-pdf",
-  "version": "3.0.6",
+  "name": "@nathanboktae/react-pdf",
+  "version": "3.1.0",
   "description": "Display PDFs in your React app as easily as if they were images.",
   "main": "dist/entry.js",
   "es6": "src/entry.js",
@@ -42,6 +42,10 @@
     "email": "kontakt@wojtekmaj.pl"
   },
   "contributors": [
+    {
+      "name": "Nathan Black",
+      "email": "nathan@nathanblack.org"
+    },
     {
       "name": "Anenth",
       "email": "anenthvishnu@gmail.com"
@@ -115,6 +119,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wojtekmaj/react-pdf.git"
+    "url": "https://github.com/nathanboktae/react-pdf.git"
   }
 }
